@@ -1,0 +1,27 @@
+{
+  "users": {
+    "5555933005901@s.whatsapp.net": {},
+    "5521992204405@s.whatsapp.net": {}
+  },
+  "chats": {
+    "555596274433-1594996941@g.us": {
+      "mute": false,
+      "antilink": false,
+      "nsfw": false
+    }
+  },
+  "database": {},
+  "game": {
+    "math": []
+  },
+  "settings": {
+    "14502314093@s.whatsapp.net": {
+      "status": 0,
+      "autobio": false
+    }
+  },
+  "others": {
+    "vote": []
+  },
+  "sticker": {}
+}

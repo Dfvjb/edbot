@@ -1,0 +1,37 @@
+{
+  "users": {
+    "5511997252360@s.whatsapp.net": {},
+    "5555933005901@s.whatsapp.net": {},
+    "556798447772@s.whatsapp.net": {},
+    "558788119950@s.whatsapp.net": {},
+    "558894639613@s.whatsapp.net": {}
+  },
+  "chats": {
+    "558497091496-1617645583@g.us": {
+      "mute": false,
+      "antilink": false
+    },
+    "120363019940967705@g.us": {
+      "mute": false,
+      "antilink": false
+    },
+    "120363022745421258@g.us": {
+      "mute": false,
+      "antilink": false
+    }
+  },
+  "database": {},
+  "game": {
+    "math": []
+  },
+  "settings": {
+    "14502314093@s.whatsapp.net": {
+      "status": 0,
+      "autobio": false
+    }
+  },
+  "others": {
+    "vote": []
+  },
+  "sticker": {}
+}

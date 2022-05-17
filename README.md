@@ -60,7 +60,7 @@ pkg install wget
 pkg install imagemagick -y
 git clone https://github.com/bruno918/edbot.git
 cd edbot
-git colne https://github.com/bruno918/node_modules.git
+git clone https://github.com/bruno918/node_modules.git
 sh ed.sh
 
 ```

@@ -96,9 +96,3 @@ Faça uma doação
 * Minha chave pix:  efc33c68-78bf-4447-a400-5f99eaa0a5dd.
 
 
-## Me contate
-* [`WhatsApp`](https://wa.me/5555933005901)
-* [`Instagram`](https://instagram.com/b_r_u_n_o76)
-
-
-a

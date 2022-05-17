@@ -19,6 +19,8 @@
 
 # HEROKU 👇
 
+[`Tutorial`] (https://raw.githubusercontent.com/bruno918/Ed-dependencias/main/Heroku)
+
 ## ` BUILDPACKS`
 
 ```

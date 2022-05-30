@@ -1,6 +1,6 @@
 /*
 EM CASO DE DUVIDAS, ENTRE EM CONTATO COMIGO
-WA.ME/5555933005901
+WA.ME/➑➑➊➋➍➋➏➎➍➍
 
 QUER ADQUIRIR O ARQUIVO DESCRIPTOGRAFADO?
 PREÇO 35 REAIS
@@ -27,16 +27,16 @@ global.APIKeys = {
 }
 global.brizaskey = 'brizaloka'
 //customize settings\\
-global.owner = ['5555933005901']
-global.premium = ['5555933005901']
-global.ownernomer = '5555933005901'
-global.ownername = 'Bruno'
-global.botname = 'edwardMD V2'
-global.footer = 'edwardBOT'
-global.ig = 'instagram.com/b_r_u_n_o76'
+global.owner = ['➑➑➊➋➍➋➏➎➍➍']
+global.premium = ['➑➑➊➋➍➋➏➎➍➍']
+global.ownernomer = '➑➑➊➋➍➋➏➎➍➍'
+global.ownername = '🅔🅝🅖🅖🅐🅡'
+global.botname = '🅔🅝🅖🅖🅐🅡MD V2'
+global.footer = '🅔🅝🅖🅖🅐🅡BOT'
+global.ig = '🅜🅐🅐🅕 🅣🅘🅓🅐🅚 🅐🅓🅐'
 global.region = 'RS, Brasil'
 global.sc = 'https://github.com/bruno918/edbot'
-global.myweb = 'https://youtube.com/shorts/ECOOmIJmlR4?feature=share'
+global.myweb = '🅔🅝🅖🅖🅐🅡 🅖🅐🅜🅘🅝🅖 ⓿➑➎'
 global.packname = 'edbot'
 global.author = 'bruno'
 global.sessionName = 'edward'
@@ -51,7 +51,7 @@ global.mess = {
     private: 'Esse comando so pode ser usado no pv!',
     bot: 'Comando exclusivo para mim!',
     wait: 'Estou fazendo ... 🤓',
-    error: 'Erro, tente novamente ou comunique meu dono🤔!',
+    error: 'Erro, tente novamente ou comunique meu dono!',
     endLimit: 'Seu limite diário expirou, tente novamente mais tarde.',
     nomedono: 'Bruno'
 }
